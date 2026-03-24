@@ -1,0 +1,193 @@
+Интернет и Всемирная паутина (Web) — это одно и то же.
+A. True
+B. False
+ANSWER: B
+
+Что происходит после ввода URL в браузере?
+A. Браузер сразу рендерит страницу
+B. Браузер отправляет HTTP-запрос на сервер после получения IP через DNS
+C. Браузер сохраняет страницу в кэш
+D. Браузер отправляет запрос на сервер без DNS
+ANSWER: B
+
+Какой протокол используется для безопасной передачи данных в вебе?
+A. HTTP
+B. FTP
+C. HTTPS
+D. SMTP
+ANSWER: C
+
+Сервер отправляет запрос, а клиент отвечает.
+A. True
+B. False
+ANSWER: B
+
+В какой вкладке DevTools можно посмотреть загружаемые файлы (HTML, CSS, JS)?
+A. Elements
+B. Console
+C. Network
+D. Sources
+ANSWER: C
+
+Какой тег является корневым в HTML-документе?
+A. <head>
+B. <body>
+C. <html>
+D. <doctype>
+ANSWER: C
+
+Какой атрибут используется для указания пути к изображению в теге <img>?
+A. href
+B. src
+C. alt
+D. link
+ANSWER: B
+
+Семантические теги <header>, <main>, <footer> не влияют на отображение, но улучшают структуру.
+A. True
+B. False
+ANSWER: A
+
+Какое расширение обычно имеет файл со стилями CSS?
+A. .js
+B. .html
+C. .css
+D. .style
+ANSWER: C
+
+Какой селектор CSS соответствует элементу с id="header"?
+A. .header
+B. #header
+C. header
+D. *header
+ANSWER: B
+
+Какое свойство CSS задает отступ внутри элемента (от контента до границы)?
+A. margin
+B. border
+C. padding
+D. spacing
+ANSWER: C
+
+CSS-свойство display: flex используется для создания гибких макетов.
+A. True
+B. False
+ANSWER: A
+
+Как подключить внешний JavaScript-файл script.js?
+A. <script href="script.js">
+B. <script src="script.js">
+C. <js src="script.js">
+D. <link rel="script" href="script.js">
+ANSWER: B
+
+Как объявить переменную, значение которой не планируется изменять?
+A. var
+B. let
+C. const
+D. variable
+ANSWER: C
+
+Какой тип данных в JavaScript используется для хранения текста?
+A. number
+B. string
+C. boolean
+D. char
+ANSWER: B
+
+Функция в JavaScript объявляется с помощью ключевого слова function.
+A. True
+B. False
+ANSWER: A
+
+Как добавить обработчик события клика на кнопку в HTML?
+A. <button onclick="myFunction()">
+B. <button onmouseover="myFunction()">
+C. <button event="click">
+D. <button click="myFunction()">
+ANSWER: A
+
+Что такое DOM?
+A. Объектная модель документа, представляющая HTML-элементы в виде объектов
+B. Протокол передачи данных
+C. Система контроля версий
+D. Язык стилей
+ANSWER: A
+
+Какая команда Git создает новый репозиторий в текущей папке?
+A. git start
+B. git init
+C. git create
+D. git new
+ANSWER: B
+
+Какой командой добавляются файлы в индекс перед коммитом?
+A. git commit
+B. git push
+C. git add
+D. git stage
+ANSWER: C
+
+GitHub — это система контроля версий.
+A. True
+B. False
+ANSWER: B
+
+Что делает команда git commit -m "message"?
+A. Сохраняет изменения с сообщением
+B. Отправляет изменения в удаленный репозиторий
+C. Добавляет файлы в индекс
+D. Создает новую ветку
+ANSWER: A
+
+Какой тег HTML используется для создания ссылки?
+A. <link>
+B. <a>
+C. <href>
+D. <url>
+ANSWER: B
+
+В CSS селектор .class выбирает элемент по его идентификатору.
+A. True
+B. False
+ANSWER: B
+
+Какое свойство CSS задает цвет текста?
+A. background-color
+B. text-color
+C. color
+D. font-color
+ANSWER: C
+
+Какой тип данных в JavaScript вернет true или false?
+A. boolean
+B. number
+C. string
+D. object
+ANSWER: A
+
+Какая команда Git отправляет локальные коммиты в удаленный репозиторий?
+A. git pull
+B. git push
+C. git fetch
+D. git sync
+ANSWER: B
+
+Что означает аббревиатура DNS?
+A. Domain Name System
+B. Data Network Service
+C. Digital Name Server
+D. Document Name System
+ANSWER: A
+
+HTML-тег <p> предназначен для абзацев.
+A. True
+B. False
+ANSWER: A
+
+Какой тег используется для подключения CSS-стилей из внешнего файла?
+A. <style>
+B. <css>
+C. <link>
+D. <script>
+ANSWER: C
